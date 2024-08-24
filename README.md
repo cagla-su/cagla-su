@@ -1,4 +1,4 @@
-- Hello! I'm Çıt, but you can call me Cit if you want 🤭.
+- Hello! I'm Çıt but you can call me Cit if you want 🤭.
 - My pronouns are she/her and I'm a trans woman.
 - I'm from Türkiye and I live there.
 - I'm 21 and I'm studying English Translation and Interpreting
