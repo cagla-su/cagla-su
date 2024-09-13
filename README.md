@@ -1,7 +1,7 @@
 - Hello! I'm **Çıt** but you can call me **Cit** if you want 🤭.
 - My pronouns are **she/her** and I'm a trans woman.
-- I'm 21 and I'm Turkish.
-- My major field is English translation and interpreting.
+- I'm **21** and I'm **Turkish**.
+- My major field is **English translation and interpreting**.
 - I'm vegan and I like listening to music, gaming, cooking and knitting.
-- I'm a Linux user, I'm mainly daily driving and gaming on Linux.
-- I'm not experienced about programming at all but I'm learning. I'm currently the designer and project manager of [Rainbow Linux](https://github.com/rainbow-linux).
+- I'm a **Linux user**, I'm mainly daily driving and gaming on Linux.
+- I'm not experienced about programming at all but I'm learning. I'm currently the **designer and project manager of** [Rainbow Linux](https://github.com/rainbow-linux).
