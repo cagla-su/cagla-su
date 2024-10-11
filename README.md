@@ -2,5 +2,5 @@
 - My pronouns are **she/her** and I'm a trans woman.
 - I'm **21** and I'm **Turkish**.
 - My major field is **English translation and interpreting**.
-- I'm vegan and I like listening to music, gaming, cooking and knitting.
+- I'm vegan and I like listening to music, gaming, and cooking.
 - I'm a **Linux user**, I'm mainly daily driving and gaming on Linux.
