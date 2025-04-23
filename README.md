@@ -1,3 +1,1 @@
-🇹🇷 🏳️‍⚧️
-- 21
-- Linux enthusiast
+A Linux enthusiast.
