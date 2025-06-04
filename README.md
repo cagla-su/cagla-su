@@ -3,4 +3,4 @@
 - ⚧️ **Gender** `:` *Female*
 - 🍄 **Pronouns** `:` *She/Her*
 - 💖 **Favourite Singer** `:` *AILEE*
-- ❤️ **Favourite Animal** `:` *Cats & penguins :)*
+- ❤️ **Favourite Animals** `:` *Cats & penguins :)*
